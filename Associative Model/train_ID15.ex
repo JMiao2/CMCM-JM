@@ -5,18 +5,18 @@ I:
 (Color)
 1 0 0 0 0 0 0 0 0
 (Feature)
-1 0
+0 1
 (Motion)
-1 0
+0 1
 T:
 (Shape_OUT)
 1 0 0 0 0 0 0 0 0
 (Color_OUT)
 1 0 0 0 0 0 0 0 0
 (Feature_OUT)
-1 0
+0 1
 (Motion_OUT)
-1 0
+0 1
 ;
 
 name: SecondExample
@@ -28,7 +28,7 @@ I:
 (Feature)
 0 1
 (Motion)
-1 0
+0 1
 T:
 (Shape_OUT)
 0 1 0 0 0 0 0 0 0
@@ -37,7 +37,7 @@ T:
 (Feature_OUT)
 0 1
 (Motion_OUT)
-1 0
+0 1
 ;
 
 name: ThirdExample
@@ -49,7 +49,7 @@ I:
 (Feature)
 1 0
 (Motion)
-0 1
+1 0
 T:
 (Shape_OUT)
 0 0 1 0 0 0 0 0 0
@@ -58,7 +58,7 @@ T:
 (Feature_OUT)
 1 0
 (Motion_OUT)
-0 1 
+1 0
 ;
 
 name: FourthExample
@@ -68,7 +68,7 @@ I:
 (Color)
 0 0 0 1 0 0 0 0 0
 (Feature)
-0 1
+1 0
 (Motion)
 1 0
 T:
@@ -77,7 +77,7 @@ T:
 (Color_OUT)
 0 0 0 1 0 0 0 0 0
 (Feature_OUT)
-0 1
+1 0
 (Motion_OUT)
 1 0
 ;
@@ -89,7 +89,7 @@ I:
 (Color)
 0 0 0 0 1 0 0 0 0
 (Feature)
-1 0
+0 1
 (Motion)
 1 0
 T:
@@ -98,7 +98,7 @@ T:
 (Color_OUT)
 0 0 0 0 1 0 0 0 0
 (Feature_OUT)
-1 0
+0 1
 (Motion_OUT)
 1 0
 ;
@@ -131,7 +131,7 @@ I:
 (Color)
 0 0 0 0 0 0 1 0 0
 (Feature)
-1 0
+0 1
 (Motion)
 0 1
 T:
@@ -140,7 +140,7 @@ T:
 (Color_OUT)
 0 0 0 0 0 0 1 0 0
 (Feature_OUT)
-1 0
+0 1
 (Motion_OUT)
 0 1
 ;
@@ -154,7 +154,7 @@ I:
 (Feature)
 0 1
 (Motion)
-1 0
+0 1
 T:
 (Shape_OUT)
 0 0 0 0 0 0 0 1 0
@@ -163,6 +163,6 @@ T:
 (Feature_OUT)
 0 1
 (Motion_OUT)
-1 0
+0 1
 ;
 

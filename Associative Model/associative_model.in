@@ -19,10 +19,34 @@ addGroup Motion_OUT 2 OUTPUT
 connectGroups {Shape Color Feature Motion} Hidden {Shape_OUT Color_OUT Feature_OUT Motion_OUT}
 
 #Load files
-loadExamples train_1.ex
-loadExamples test_1.ex
-loadExamples train_2.ex
-loadExamples test_2.ex
+loadExamples test_cc.ex
+loadExamples test_ci.ex
+loadExamples test_hc.ex
+loadExamples test_hi.ex
+loadExamples train_ID1.ex
+loadExamples train_ID2.ex
+loadExamples train_ID3.ex
+loadExamples train_ID4.ex
+loadExamples train_ID5.ex
+loadExamples train_ID6.ex
+loadExamples train_ID7.ex
+loadExamples train_ID8.ex
+loadExamples train_ID9.ex
+loadExamples train_ID10.ex
+loadExamples train_ID11.ex
+loadExamples train_ID12.ex
+loadExamples train_ID13.ex
+loadExamples train_ID14.ex
+loadExamples train_ID15.ex
+loadExamples train_ID16.ex
+loadExamples train_ID17.ex
+loadExamples train_ID18.ex
+loadExamples train_ID19.ex
+loadExamples train_ID20.ex
+loadExamples train_ID21.ex
+loadExamples train_ID22.ex
+loadExamples train_ID23.ex
+loadExamples train_ID24.ex
 
 #Set learning and display parameters
 setObj learningRate 0.08
